@@ -1,0 +1,5 @@
+fastapi==0.100.0       # For the backend API
+uvicorn==0.23.0        # For running the FastAPI server
+scipy==1.11.2          # For linear programming (linprog)
+numpy==1.26.0          # For numerical operations
+cvxpy==1.3.2           # For quadratic programming (QP)
